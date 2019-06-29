@@ -1,1 +1,1 @@
-blog made with html5, boostrap, css, flask
+blog made with html5, boostrap, css, flask, sqllite
